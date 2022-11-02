@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://akatahin.github.io/csb-ol2e7/static/css/main.c282ecc5.chunk.css",
-    "main.js": "https://akatahin.github.io/csb-ol2e7/static/js/main.d242da0b.chunk.js",
-    "main.js.map": "https://akatahin.github.io/csb-ol2e7/static/js/main.d242da0b.chunk.js.map",
+    "main.js": "https://akatahin.github.io/csb-ol2e7/static/js/main.e4969585.chunk.js",
+    "main.js.map": "https://akatahin.github.io/csb-ol2e7/static/js/main.e4969585.chunk.js.map",
     "runtime-main.js": "https://akatahin.github.io/csb-ol2e7/static/js/runtime-main.b3ca1a6c.js",
     "runtime-main.js.map": "https://akatahin.github.io/csb-ol2e7/static/js/runtime-main.b3ca1a6c.js.map",
     "static/js/2.b89a09c6.chunk.js": "https://akatahin.github.io/csb-ol2e7/static/js/2.b89a09c6.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.b3ca1a6c.js",
     "static/js/2.b89a09c6.chunk.js",
     "static/css/main.c282ecc5.chunk.css",
-    "static/js/main.d242da0b.chunk.js"
+    "static/js/main.e4969585.chunk.js"
   ]
 }
