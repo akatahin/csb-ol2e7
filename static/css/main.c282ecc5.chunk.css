@@ -1,0 +1,2 @@
+.App{font-family:sans-serif;text-align:center}#menu{display:flex;flex-direction:column}.button{margin:10px;padding:10px;color:#17c2c2;background:#525050}.button:hover{background:#17c2c2;color:#000}.menuTitle{font-size:50px}#game-board{display:flex;flex-direction:column}#game-image{height:720px;width:1280px}#game-over{display:flex;flex-direction:column}.gameBoardObjective,.gameBoardTimer{font-size:2em}body{background-color:#000;color:#17c2c2}
+/*# sourceMappingURL=main.c282ecc5.chunk.css.map */
